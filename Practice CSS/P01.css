@@ -1,0 +1,98 @@
+.Explain{
+    font-style: italic ;
+    color:white;
+    background-color: chartreuse;
+    font-weight:bold;
+    background-position: right center;
+    
+}
+
+.Explain{
+    background-image: url(../Images/Travel.jpg);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    border-radius: 10px;
+    height: 850px;
+    width: fit-content;  
+    
+}
+
+#main{
+    color: chartreuse;
+    background-color: black;
+    text-align: center;
+}
+
+.Australia{
+    display: flex;
+    gap: 20px;
+}
+.Australia img{
+    width: 30%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+#blog{
+    color: chocolate;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Japan{
+    display: flex;
+    gap: 20px;
+}
+
+.Japan img{
+    width: 30%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.USA{
+    display: flex;
+    gap: 20px;
+}
+
+.USA img{
+    width: 30%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 15PX;
+}
+
+ol{
+    list-style-position: inside;
+    padding: 0;
+}
+
+ol li{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+    margin-bottom: 40px;
+    font-style: italic;
+    color: blue;
+    font-size: 30px;
+}
+
+ol li img{
+    width: 250px;
+    height: auto;
+    display: block;
+}
+
+.pictures{
+    box-shadow:white ;
+    border: none;
+    outline: none;
+    display: block;
+    background: transparent;
+    border-radius: 30px;
+}
