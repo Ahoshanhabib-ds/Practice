@@ -78,7 +78,7 @@
 
 ol{
     list-style-position: inside;
-    padding: 10px;
+    padding: 5%;
 }
 
 ol li{
@@ -106,7 +106,7 @@ ol li img{
     background: transparent;
     border-radius: 20px;
     mix-blend-mode:multiply;
-    margin: 20px;
+    margin: 5%;
 }
 
 #title{
