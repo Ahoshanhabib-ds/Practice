@@ -105,6 +105,8 @@ ol li img{
     display: block;
     background: transparent;
     border-radius: 20px;
+    mix-blend-mode:multiply;
+    margin: 20px;
 }
 
 #title{
@@ -142,6 +144,7 @@ ul li img{
     border-radius: 20px;
     background: transparent;
     box-shadow: none;
+    mix-blend-mode:multiply;
 }
 
 #M{
